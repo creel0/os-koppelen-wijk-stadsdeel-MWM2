@@ -1,17 +1,17 @@
 #-----------------------------------------------------------------------------------------------
 
-# Titel project
+# koppelen wijk en stadsdeel peilingen stadspanel (MWM2)
 
-# Beschrijving 
+# Een script om wijken en stadsdelen goed te koppelen aan postcode. Deze staan niet goed in MWM2. 
 
 #-----------------------------------------------------------------------------------------------
 
-# ontwikkelaars van het script, Gemeente Nijmegen
+# Loes Creemers, Gemeente Nijmegen
 
 #-----------------------------------------------------------------------------------------------
 
 # last update 
-# datum
+# 28-4-26
 
 # De hoofdresultaten worden weggeschreven naar de Karelstad omgeving (report.loc) in een van de 3 mappen: PLOTS, TABEL, RAPPORTAGE
 # De data blijft zoveel mogelijk op de 'originele' locatie staan. 

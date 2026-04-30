@@ -62,4 +62,4 @@ lapply(packages,library,character.only = TRUE
 )
 
 #review packages loaded
-sessionInfo() %>% capture.output(file="session_info.txt")
+#sessionInfo() %>% capture.output(file="session_info.txt")
